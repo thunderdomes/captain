@@ -1,0 +1,2 @@
+# captain
+### a Sails application
